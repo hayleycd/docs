@@ -49,3 +49,5 @@ yarn generate
 To preview the static generated app, run `yarn start`
 
 For detailed explanation on how things work, checkout [nuxt/content](https://content.nuxtjs.org) and their official [GitHub repo](https://github.com/nuxt/content).
+
+(Jon, I am trying something different)
