@@ -1,4 +1,3 @@
-#redirect file for moved web pages.
 /main-concepts                              /about/tooling
 /security                                   /about/security
 /threat-model                               /about/threat-model/
@@ -39,4 +38,3 @@
 /rekor/verify-release                       /logging/verify-release
 /rekor/sharding                             /logging/sharding
 /community                                  /contributing
-
