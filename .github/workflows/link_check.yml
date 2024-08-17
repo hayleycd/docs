@@ -11,4 +11,6 @@ jobs:
       - uses: gaurav-nelson/github-action-markdown-link-check@0f074c8562c5a8fed38282b7c741d1970bb1512d
         with:
           use-verbose-mode: "yes"
+          folder_path: "../../"
+          max-depth: "-3"
 # Documentation available here: https://github.com/marketplace/actions/markdown-link-check
