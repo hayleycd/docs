@@ -40,7 +40,7 @@ https://oauth2.sigstore.dev/auth/auth?access_type=online&client_id=sigstore&...
 [main 040b9af] Signed commit
 ```
 
-This will redirect you through the [Sigstore Keyless]({{< relref "signing/overview">}})
+This will redirect you through the [Sigstore Keyless]({{< relref "cosign/signing/overview">}})
 flow to authenticate and sign the commit.
 
 Commits can then be verified using `git verify-commit`:
