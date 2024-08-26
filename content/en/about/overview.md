@@ -60,7 +60,7 @@ For more information on the modules that make up Sigstore, review [Tooling]({{< 
 
 To use Sigstore, you must first install the client. Review the [Installation]({{< relref "cosign/system_config/installation">}}) instructions. You can then pick the subject matter you wish to learn about from the menu items on the left. For a quick introduction, you can try using one of the links below:
 
-* To get a quick view of how to use the program see [Quick Start]({{< relref "quickstart">}})
+* To get a quick view of how to use the program see [Quick Start]({{< relref "quickstart/quickstart">}})
 * To learn how to work with blobs, see [sign a blob]({{< relref "cosign/signing/signing_with_blobs">}})
 * To learn how to work with containers, see [sign a container]({{< relref "cosign/signing/signing_with_containers">}})
 * To use Gitsign, see [Sign Git commits with Gitsign]({{< relref "cosign/signing/gitsign">}})
